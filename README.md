@@ -50,6 +50,8 @@ Just download the latest release:
 - [Download for Windows (.exe)](https://github.com/techkojie/LockerX/releases)
 
 No installation required — just run the file.
+this version is for windows using 64bit of processor, will in time release further version for 32bit.
+## windows 11 will initially flag it as unsafe but ignore and keep anyways
 
 ## Built With
 
